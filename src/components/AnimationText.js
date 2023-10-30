@@ -6,7 +6,7 @@ const AnimationText = () => {
       <MovingComponent
         type="typewriter"
         dataText={[
-          "daria taylor",
+          "Faiq Alee",
           "a web designer",
           "a blogger",
           "a freelancer",
