@@ -67,7 +67,7 @@ const Contact = () => {
                     {" "}
                     <span className="contact-title">Phone</span>
                     <i className="fa fa-whatsapp" />
-                    <span className="contact-content">+216 21 184 010</span>
+                    <span className="contact-content">+92-318-6967330</span>
                   </h6>
                 </li>
                 <li>
@@ -75,23 +75,23 @@ const Contact = () => {
                     {" "}
                     <span className="contact-title">email</span>
                     <i className="fa fa-envelope-o fs-14" />
-                    <span className="contact-content">info@daria.ua</span>
+                    <span className="contact-content">Faiqalee5000@gmail.com</span>
                   </h6>
                 </li>
                 <li>
-                  <h6 className="font-weight-600">
+                  {/* <h6 className="font-weight-600">
                     <span className="contact-title">instagram</span>
                     <i className="fa fa-instagram" />
                     <span className="contact-content">daria.198</span>
-                  </h6>
+                  </h6> */}
                 </li>
-                <li>
+                {/* <li>
                   <h6 className="font-weight-600">
                     <span className="contact-title">Dribbble </span>
                     <i className="fa fa-dribbble" />
                     <span className="contact-content">daria.dribble</span>
                   </h6>
-                </li>
+                </li> */}
               </ul>
               {/* Social Media Profiles Starts */}
               <div className="social">
